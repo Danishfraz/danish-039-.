@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/BS/W6f4UA8hSZ3zyT7bo0yuWH2mpw4Tx9nxLQNIZmfWWPNYRDYe11+l9P0rkENBGfCj9Kmi/bxZ+p/Q+EbNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Downloads\\Login Form\\Login Form.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
